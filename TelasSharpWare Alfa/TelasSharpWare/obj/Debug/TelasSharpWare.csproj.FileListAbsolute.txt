@@ -254,3 +254,6 @@ C:\Users\RodrigoFelipe\Documents\PIM\TelasSharpWare Alfa\TelasSharpWare\obj\Debu
 C:\Users\RodrigoFelipe\Documents\PIM\TelasSharpWare Alfa\TelasSharpWare\obj\Debug\TelasSharpWare.Properties.Resources.resources
 C:\Users\RodrigoFelipe\Documents\PIM\TelasSharpWare Alfa\TelasSharpWare\obj\Debug\TelasSharpWare.EditarCliente.resources
 C:\Users\RodrigoFelipe\Documents\PIM\TelasSharpWare Alfa\TelasSharpWare\obj\Debug\TelasSharpWare.csproj.GenerateResource.Cache
+C:\Users\A-IKASORUK\Dropbox\SW-Gestao\TelasSharpWare Alfa\TelasSharpWare\bin\Debug\TelasSharpWare.exe.config
+C:\Users\A-IKASORUK\Dropbox\SW-Gestao\TelasSharpWare Alfa\TelasSharpWare\obj\Debug\TelasSharpWare.exe
+C:\Users\A-IKASORUK\Dropbox\SW-Gestao\TelasSharpWare Alfa\TelasSharpWare\obj\Debug\TelasSharpWare.pdb
